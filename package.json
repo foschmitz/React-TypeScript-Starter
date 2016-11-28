@@ -1,0 +1,31 @@
+{
+  "name": "react-typescript-starter",
+  "version": "1.0.0",
+  "description": "Starter project for ReactJS with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zishor/React-TypeScript-Starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zishor/React-TypeScript-Starter/issues"
+  },
+  "homepage": "https://github.com/zishor/React-TypeScript-Starter#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2",
+    "ts-loader": "^1.2.2",
+    "typescript": "^2.0.10",
+    "webpack": "^1.13.3"
+  }
+}
